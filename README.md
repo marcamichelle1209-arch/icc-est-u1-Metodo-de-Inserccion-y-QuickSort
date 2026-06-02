@@ -41,10 +41,11 @@ Por que se puede dividir al conjunto en subarreglos  de tamaños adecuados.
 
 Se debe redactar al menos tres conclusiones propias. Las conclusiones deben estar relacionadas directamente con los tiempos obtenidos.
 
-- Conclusión 1: _El Metodo de insercion mostro que cuando hay condiciones de desorden, insercion se vuelven una complejidad constante, por ende se hace mas lenta en este caso su ejecucion.________________ _______________________________
+- Conclusión 1: _El Metodo de insercion mostro que cuando hay condiciones de desorden, insercion se vuelven una complejidad constante, por ende se hace mas lenta en este caso su ejecucion.
+
 - Conclusión 2: 
 Se pudo observar que en el  2 escenario insercion fue mucho mas rapido, dado al estado inicial de los datos.
-_______________________________
-- Conclusión 3: _Se pudo observar que al utilizar QuickSort con un pivote fijo, genero una sobrecarga de recursividad, lo que evito completar las otras mediciones.______
+
+- Conclusión 3: _Se pudo observar que al utilizar QuickSort con un pivote fijo, genero una sobrecarga de recursividad, lo que evito completar las otras mediciones.
 
 **Importante:** Las conclusiones no pueden ser generadas con IA. Deben reflejar su análisis a partir de los resultados reales de la práctica.
